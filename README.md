@@ -7,7 +7,7 @@
 
 蚁剑插件版： https://github.com/yzddmr6/as_webshell_venom
 
-星球内部版:  https://yzddmr6.tk/posts/webshell-venom-notice/
+知识星球:  https://yzddmr6.tk/zsxq/
 
 免杀文档： https://github.com/yzddmr6/webshell-venom/tree/master/doc
 
@@ -34,18 +34,6 @@ webshell-venom 3.2
 
 详情：https://yzddmr6.tk/posts/webshell-venom-3-2/
 
-# 2019.8.13 星球内部版更新日志
-
-webshell-venom 4.0
-
-1. 更新php-venom 至4.0 支持所有php版本 更换payload 免杀更持久 
-
-2. 更新asp aspx免杀脚本至2.0 ，精简体积，免杀依旧
-
-3. 所有编写思路及文档已经转移至本人博客，在线查看更方便
-
-
-详情请戳： https://yzddmr6.tk/posts/webshell-venom-4-0/
 
 
 # 2019.8.6 更新日志
@@ -62,7 +50,6 @@ webshell-venom 4.0
 2.	变量全员随机化，不再有固定的变量名称
 
 3.	增加流量传输编码方式并且兼容原版，具体看php目录下介绍
-
 
 
 
