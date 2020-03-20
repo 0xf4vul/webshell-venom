@@ -7,11 +7,18 @@
 
 蚁剑插件版： https://github.com/yzddmr6/as_webshell_venom
 
-知识星球:  https://yzddmr6.tk/zsxq/
+知识星球： https://yzddmr6.tk/zsxq/
 
 免杀文档： https://github.com/yzddmr6/webshell-venom/tree/master/doc
 
-# 2019.9.4 公开版更新日志
+
+# 2020.3.20 更新日志
+
+1. 增加jsp命令执行一句话生成脚本。
+
+2. 删除一些无关信息。
+
+# 2019.9.4 更新日志
 
 webshell-venom 3.3 :利用随机异或免杀任意php文件
 
@@ -24,7 +31,7 @@ webshell-venom 3.3 :利用随机异或免杀任意php文件
 详情：https://yzddmr6.tk/posts/webshell-venom-3-3/
 
 
-# 2019.8.17 公开版更新日志
+# 2019.8.17 更新日志
 
 webshell-venom 3.2  
 
@@ -45,11 +52,11 @@ webshell-venom 3.2
 
  star到达300，更新 php_venom 至3.0
 
-1.	修复已知问题:宝塔在遇到header404时会解析到他的404模版上，而不是shell上，导致无法连接，故去除头部的404，如有需要自行添加
+1. 修复已知问题:宝塔在遇到header404时会解析到他的404模版上，而不是shell上，导致无法连接，故去除头部的404，如有需要自行添加
 
-2.	变量全员随机化，不再有固定的变量名称
+2. 变量全员随机化，不再有固定的变量名称
 
-3.	增加流量传输编码方式并且兼容原版，具体看php目录下介绍
+3. 增加流量传输编码方式并且兼容原版，具体看php目录下介绍
 
 
 
@@ -59,20 +66,20 @@ webshell-venom 3.2
 
 2. 增加php_venom的py版本
 
-3. star数量达到100,增加asp_venom免杀生成脚本,并且将于近日放出php_venom_3.0重大更新
+3. star数量达到100,增加asp_venom免杀生成脚本
 
 
 
 
 # 2019.6.7 更新日志
 
-1.原项目名称 "`利用随机异或无限免杀d盾`" 更改为 "`webshell-venom`"
+1. 原项目名称 "`利用随机异或无限免杀d盾`" 更改为 "`webshell-venom`"
 
-2.增添aspx免杀生成脚本
+2. 增添aspx免杀生成脚本
 
-3.更新免杀
+3. 更新免杀
 
-4.为了方便起见,以后的脚本都会用python来实现(~~PHP是世界上最好的语言~~)
+4. 为了方便起见,以后的脚本都会用python来实现(~~PHP是世界上最好的语言~~)
 
 
 

